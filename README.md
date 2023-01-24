@@ -8,3 +8,5 @@ The letters, phrases and words written by the keys pressed on the keyboard will 
 
 # USAGE
 
+git clone
+
