@@ -8,5 +8,11 @@ The letters, phrases and words written by the keys pressed on the keyboard will 
 
 # USAGE
 
-git clone
+git clone https://github.com/CrizzyMan/python-keylogger.git
+
+cd python-keylogger
+
+pip install -r requirements.txt
+
+python python-keylogger.py
 
